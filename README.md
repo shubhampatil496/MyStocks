@@ -7,7 +7,7 @@ It provides a simple interface to add stocks, monitor performance, and manage po
 
 🎯 Features
 
-    📈 Add and manage stock holdings
+  📈 Add and manage stock holdings
 
   💰 Track profit/loss in real-time
 
@@ -18,6 +18,7 @@ It provides a simple interface to add stocks, monitor performance, and manage po
   👤 User authentication (Login/Register)
 
   ☁️ Cloud-based data storage
+
 
 🛠️ Tech Stack
 
@@ -39,6 +40,7 @@ It provides a simple interface to add stocks, monitor performance, and manage po
 
     Git & GitHub
     Postman (API Testing)
+
 
 ⚙️ Installation & Setup
 
@@ -62,6 +64,7 @@ It provides a simple interface to add stocks, monitor performance, and manage po
   cd backend -> nodemon index.js
   cd dashboard -> npm run dev
 
+
 🌐 Usage
 
   Open browser: http://localhost:3000
@@ -71,6 +74,7 @@ It provides a simple interface to add stocks, monitor performance, and manage po
   Add your stocks
   
   Track performance
+
 
 🔮 Future Enhancements
 
@@ -82,9 +86,11 @@ It provides a simple interface to add stocks, monitor performance, and manage po
   
   🔔 Price alerts & notifications
 
+
 👨‍💻 Author
 
   Shubham Patil
+
 
 ⭐ Support
 
