@@ -7,7 +7,7 @@ It provides a simple interface to add stocks, monitor performance, and manage po
 
 🎯 Features
 
-  📈 Add and manage stock holdings
+    📈 Add and manage stock holdings
 
   💰 Track profit/loss in real-time
 
