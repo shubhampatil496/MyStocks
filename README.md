@@ -5,6 +5,7 @@ MyStocks is a web application that helps users track, manage, and analyze their 
 It provides a simple interface to add stocks, monitor performance, and manage portfolios efficiently.
 
 🎯 Features
+
 📈 Add and manage stock holdings
 💰 Track profit/loss in real-time
 🔍 Search and filter stocks
@@ -49,12 +50,14 @@ cd backend -> nodemon index.js
 cd dashboard -> npm run dev
 
 🌐 Usage
+
 Open browser: http://localhost:3000
 Register/Login
 Add your stocks
 Track performance
 
 🔮 Future Enhancements
+
 📡 Live stock price API integration
 📊 Advanced analytics & charts
 📱 Mobile app version
